@@ -1,1 +1,1 @@
-关于Android虚拟机(ART)的知识点。
+关于Android虚拟机(ART)学习的记录
